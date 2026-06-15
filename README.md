@@ -160,7 +160,7 @@ ProtoLinks/
 
 ## License
 
-This plugin is provided as-is for educational and personal use. Feel free to modify and distribute according to your needs.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
